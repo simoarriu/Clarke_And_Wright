@@ -1,2 +1,2 @@
 # Clarke_And_Wright
-Clarke and Wright algorithm implementation in both version sequential and parallel
+Implementazione dell' algoritmo di Clarke & Wright nelle sue due versioni: sequenziale e parallelo.
